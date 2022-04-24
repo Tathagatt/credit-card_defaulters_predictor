@@ -1,4 +1,4 @@
-## Credit-Card Default Predictor
+## Credit-Card Defaulters Predictor
 
 #### Problem Statement:
     
